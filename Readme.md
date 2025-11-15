@@ -1,5 +1,4 @@
 # Simon Game — README
-
 ## Project Overview
 This project is a **Simon Game Clone** built using **HTML, CSS, JavaScript, and jQuery**. The game follows the classic memory pattern game where the system generates a sequence of colors, and the player must repeat the sequence correctly to advance to the next level.
 
